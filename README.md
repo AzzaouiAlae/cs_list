@@ -14,7 +14,7 @@ cs_list is used when you have a set of data and you don't know it size istad of 
 cs_list is use the garbage collector to manage memorie so you don't need to worry about free
 
 ## how to use
-first cs_list is a stract 
+first cs_list is a struct
 
 ```
 typedef struct s_cs_list
