@@ -1,6 +1,6 @@
 # cs_list
 
-##C Sharp list in C
+## C Sharp list in C
 This project cs_list is a clone of the c sharp list
 bcause in c there is no easy daynamic array i create this project to simplify the working with collection
 
